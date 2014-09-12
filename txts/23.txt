@@ -1,0 +1,111 @@
+Universidade de Brasília - UnB
+Gestão da Produção & Qualidade – Profa. Maria de Fátima Souza e Silva 
+Exercício 01
+Thales Duarte – 14/0051791
+Ruan Donato - 11/0139755
+
+Fatores que afetam a Produtividade – Sistema de Hierarquia e Níveis
+Introdução
+Kellog, Howell e Taylor desenvolveram um modelo para a otimização dos processos produtivos. Este modelo traz uma organização, em estruturas de hierarquia, dos fatores que influenciam a produtividade em setores industriais.
+Alguns ideais foram importantes para a elaboração do modelo, pois objetiva-se fazer uma análise mais profunda destes fatores e, além disto, até onde o gestor pode atuar para modificar a realidade da empresa/indústria, desejando sempre diminuir os custos e potencializar recursos. Exemplifica-se:
+Maximizar a produção;
+Buscar efetividade nos processos;
+Manter um controle sobre seus processos para aprimorá-los, assim gerando conhecimento e qualidade;
+Controlar todos os fatores que podem ser otimizados;
+Conhecer limitações a serem trabalhadas;  e
+Adaptar-se ao contexto cada vez mais competitivo no cenário global.
+Portanto, criou-se uma organização em que os fatores que influenciam a produtividade estão divididos em três níveis decisórios. A análise de cada um daqueles, cada qual em seu âmbito, confere uma segurança maior na tomada de decisões e no consequente sucesso.  
+Macro/Macro: Como o nome já sugere, este nível refere-se a uma visão mais ampla. Fatores externos como o sistema econômico mundial, a localização e o ambiente físico da indústria, além das características regionais do lugar instalado. 
+Macro: Neste patamar destacam-se aqueles fatores que cujos quais representam a interpretação da gestão sobre os primeiros fatores, ou seja, a alocação de recursos, definição de critérios e objetivos que originam o projeto.
+Micro/Micro: Este setor é formado pelos processos de manufatura em si.
+O nível macro/macro interfere no nível macro, gerando uma gama extensa de possibilidades de incremento de produtividade. Aqui, o gestor deve fazer valer sua engenhosidade, pois a originalidade da empresa, como será mostrada a seguir, depende a todo o momento do conhecimento dos processos e da adaptação necessária a cada conjuntura. 
+
+Nível Macro/Macro
+O fator Macro/Macro contém os tópicos relacionados aos sistemas econômicos e políticos mundiais. Neste patamar, alterar o panorama é tarefa complexa, pois a ação dos gestores é naturalmente limitada. 
+Aqui se encontram os fatores condicionantes do processo de projeto. São itens determinados por condições naturais ou socioeconômicas. Por isto, as possibilidades de ação da empresa são limitadas, entretanto estes aspectos podem ser provocadores de inovação. 
+Destaca-se, para fins explicativos, um dos fatores neste nível: As diferenças regionais. 
+As diferenças regionais estão relacionadas às características socioeconômicas de um lugar. Este fato, por sua vez, mostra também os níveis de produtividade daquele ambiente.
+Além disto, regiões com maior densidade populacional apresentam-se com uma maior eficiência industrial.
+Estas diferenças regionais podem definir, dentro da empresa, a tecnologia empregada em seus processos, as tipologias produzidas e as características da mão-de-obra. A busca pela eficiência requer um conhecimento específico que traz experiência gerencial como resultado da mistura destas pequenas contribuições ao longo do tempo. 
+Para manter um padrão de qualidade sobre o produto, as indústrias localizadas em diferentes áreas devem se adaptar às peculiaridades inerentes a cada região. Como consequência, métodos utilizados em uma unidade de manufatura, podem não ser os ideais para se utilizar em outra unidade.
+ Por limitarem a ação dos gestores, os fatores elencados no nível macro/macro alimentam a criatividade na busca por melhorias nas tomadas de decisão. Motivam políticas de controle de processos, gerenciamento de tempo, análise dos insumos e conformação da mão-de-obra. Ajuda na conexão do conhecimento das diversas áreas, pois estimulam a uma visão holística e integral dos processos de produção.
+Outro aspecto destacado  é o da localização. Esta determina, por exemplo, o acesso da mão-de-obra e equipamentos, além da própria topologia da fábrica, que por sua vez altera a circulação interna de pessoal.
+O acesso à mão-de-obra é fundamental para o ideal funcionamento da fábrica. A rotatividade de pessoal e o absenteísmo devem ser evitados, pois podem demonstrar a vontade do trabalhador de não estar naquele ambiente. Além disto, as ausências e atrasos implicam numa equipe de trabalho incompleta, que, por conseguinte, aumentará as horas-homem necessárias para o trabalho.
+Por sua vez, o acesso da matéria-prima e dos equipamentos de trabalho também sofre influxo da localização fábrica. O leiaute deve evitar a perda de tempo em horários de produção. Por exemplo, se a matéria-prima estiver longe da cadeia produtiva, algum operário gastará mais tempo para o transporte desta carga. Este colaborador poderia estar desempenhando outra função neste mesmo tempo.
+A disposição da equipe entre as salas, os equipamentos e o estoque deve ser estudada pelos gestores a fim de que haja uma boa movimentação dos trabalhadores e o cuidado com a saúde do trabalhador.
+Outro ponto a ser estudado são as condições climáticas daquele ambiente. De acordo com a localização da indústria, o clima se faz de uma forma. E suas características devem ser levadas em consideração. 
+Para determinadas épocas, as condições climáticas podem influenciar no transporte de pessoal e o acesso às instalações. A chegada de insumos necessários também é afetada. Obviamente, a interrupção nos processos é indesejada, pois a gestão almeja a otimização de recursos e tempo dos funcionários.
+Pode ocorrer, inclusive, das condições climáticas danificarem um serviço já feito, e existir a necessidade de refazê-lo. Isto implica num prejuízo gravoso que consome insumos e tempo.
+Finalmente, o clima desta região também tem influência sobre os processos de produção. Em alguns meses de inverno, é preciso a redução da semana de trabalho devido ao frio. Percebe-se aqui uma relação entre os fatores macro/macro e macro. Uma determinada região acondiciona a fábrica. Esta região tem suas características (macro/macro) que modelam as políticas gerenciais e o ambiente físico da fábrica. Entretanto, as condições climáticas (macro) também afetam os processos de manufatura.
+
+
+
+Nível Macro
+Aqui se encontram os fatores condicionantes do processo de projeto. São itens determinados por condições naturais ou socioeconômicas. Por isto, as possibilidades de ação da empresa são limitadas, entretanto estes aspectos podem ser provocadores de inovação. 
+Elenca-se: Ambiente físico, tecnologia, custo e aspectos institucionais. Como a normalização
+Dentre os fatores que afetam a produtividade, destaca-se, no nível macro, o ambiente físico. 
+
+Atividades do Setor Produtivo
+As atividades econômicas de um país refletem nas diversas relações entre os setores produtivos. 
+Por um lado, tem-se em períodos de crescimento econômico, como o que passa o Brasil e  outros países emergentes, aumento de rotatividade. Acontece que as empresas passam a contratar mais mão-de-obra e nem todos os colaboradores respondem à altura os anseios da empresa. Entretanto, o crescimento econômico gera consigo maiores expectativas de contratação e criação de empregos.
+A situação de políticas de economia pode ajudar a fomentar a criação de novas empresas, que deverão se modelar ao cenário para conseguir um espaço de destaque no ramo.
+Adicionado a estes fatores, o elevação ou o decréscimo de atividade em setores produtivos modificam as relações de oferta e demanda. E toda esta estrutura, como esperado, obriga o gestor a fazer uma leitura integral do mercado para adequar a sua empresa ao momento vivido por ela. Cada empresa reage de forma diferente e isto nem sempre é fácil prever, pois não há garantias de que a estratégia bem-sucedida numa fábrica funcionará para outra.
+
+Utilização da capacidade Instalada
+Segundo um ponto de vista tecnológico, deve se analisar qual é a máxima produção que se pode atingir durante um determinado período de tempo. Este fator é limitado pelas instalações industriais e devem servir como um parâmetro para o estudo.
+Outra definição interessante é a econômica. O nível de produção em que busca a capacidade. A otimização possível dentro das condições apresentadas.
+Mostra-se que o contexto econômico é preponderante neste fator, pois um equilíbrio neste cenário possibilita a previsão de ações controladas. Num ambiente de grandes variações financiais, a relação de oferta e demanda mudam constantemente e isto influencia na capacidade instalada da empresa. 
+Esta incerteza fez necessária a criação de mecanismos de defesa, em que, no geral, deseja-se evitar os efeitos da baixa utilização da capacidade instalada. Assim, reduzindo o quanto possível os custos nas operações durante o tempo. 
+O custo final do produto será tanto maior quanto for o decréscimo de utilização das capacidades empresariais. Deve-se frisar que existem prós e contras nas oscilações dos níveis de utilização desta capacidade. Se, por um lado, manter os níveis constantes gera uma dificuldade de inovação, por outro trazem certo conforto ao reduzir a variabilidade.
+
+Motivação
+
+Em termos da motivação no trabalho, tanto Maslow quanto Herzberg ilustraram que a motivação no trabalho vem do desejo de satisfazer suas próprias necessidades. E que esse desejo não é apenas material e econômico, existem fatores ainda mais importantes na motivação do ser humano quando se trata de trabalho e essas são satisfação própria, expressão própria e reconhecimento no que se faz. Com base nisso e em outro estudiosos sobre o assunto como Maloney (1981) a motivação é pré-requisito para uma maior produtividade. E duas variáveis que contribuem bastante para isso são o planejamento e controle das operações e o fluxo contínuo de trabalho que garantam ao operário atendimento a suas necessidades como reconhecimento e progresso de acordo com o seu desempenho. De certo que a motivação agrega valor ao trabalho mas não há uma maneira de se mensurar essa contribuição de acordo com Maloney e MCFillen.
+Portanto se conclui que a motivação e satisfação vem do “ sentir-se importante “  tanto no contexto de fabricação, quanto no papel com que o produto final terá na sociedade,  e se trará ou não bem-estar aos usuários.
+Entretanto, existem outros atenuantes no fatores que afetam a produtividade e trazem desanimo ao operário, como a falta de qualificação profissional. Sua consequência é que o volume de trabalho começa a exigir esforços além da capacidade do mesmo, acarretando na sua falta de motivação. Além de outros como supervisão, políticas de pessoal, recursos materiais e condições ambientais podem dificultar a ação dos operários pois o aspecto contextual é condição básica para existência de potencial de motivação no conteúdo do trabalho.
+De acordo com Hazeltine (1976) e Schrader (1972) é possível atingir um grau maior de produtividade quanto os indivíduos trabalham juntos a certo tempo, pois o relacionamento e interação entre operários é um dos fatores que auxiliam na motivação.
+
+Incentivos Financeiros
+
+
+Os esquemas de pagamento de incentivos financeiros tem como objetivo melhorar a produtividade e reduzir custos. E seus efeitos podem ser redução no prazo de execução, diminuição na taxa de rotatividade, redução das horas extras, diminuição da frequência de acidentes, melhorias no planejamento e controle da obra e por fim, melhoria na qualidade do produto.  Porém Bishop (1979) cita que é necessária a existência de determinadas condições para surtir efeito desejado. São elas: o trabalho deve ser completamente manual, repetitivo e de ciclos curtos, ritmo de trabalho controlado pelos próprios operários, as tarefas não devem sofrer mudanças constantes nos métodos, materiais e equipamentos além do trabalho absorver o mínimo de efeitos das flutuações de curto prazo na demanda. É importante relevar que mesmo com isso tudo, não é seguro dizer que os objetivos serão alcançados pois existem outros quesitos que devem ser levados em conta, como o tamanho da empresa, tipo de trabalho desenvolvido entre outros. Ainda sim, segundo Laufer e Moore (1983) os sistemas de incentivos financeiros influem diretamente sobre a motivação dos operários, o que tem como consequência o aumento na produtividade.
+
+
+Segurança no Trabalho
+
+Na segurança do trabalho devemos levar em consideração cinco relações importantíssimas: o operário, a proteção, eliminação de riscos mecânicos, ambiente de trabalho e condições de trabalho.  Todas essas variáveis agem sobre a produtividade já que a segurança se constitui como condição básica para que haja satisfação no trabalho. Os acidentes de trabalho ocasionam diversos problemas para a produção, pois é possível perder um operário, uma máquina e um estoque de produto. Trazendo assim no mínimo a contratação de outro indivíduo, a compra de uma nova máquina e a perda de um estoque, todos fatores que afetam de forma considerável a produtividade. Estudos feitos por Hinze e Harrison através de questionários evidenciaram que as maiores empresas têm melhor desempenho em relação a segurança do trabalho, devido aos programas mais formais de segurança, onde há acompanhamento efetivo das ocorrências, incentivos e prêmios relacionados ao desempenho em segurança, treinamento dos novos empregados e dos responsáveis pelos programas de segurança.
+
+Rotatividade
+
+A rotatividade no sentido economico diz respeito a dispensa de um funcionário e a contratação de outro em seu lugar. E o tempo de adaptação desse novo contrato influência diretamente na produção, pois é sabido que a descontinuidade dentro de uma mesma operação influência no projeto inicial. Outro aspecto fundamental para o processo produtivo é a relação entre rotatividade e treinamento. Quando cresce o risco de demanda, as empresas não se motivam a investir em programas de treinamento e ao mesmo tempo, o operário que permanece um curto período de tempo na empresa, não consegue ter uma visão global dos processos e acompanhar e aprender o trabalho de um operário experiente tem que se dá pela sua própria iniciativa. Portanto a perspectiva de permanência pequena na empresa gera insatisfação com o trabalho. Quando falamos de segurança é evidente que com o aumento da rotatividade traz consigo uma redução no tempo para atender cada novo operário e aumenta a ocorrência de acidentes. O absenteísmo também é uma problemática a ser levada em conta, pois leva-se algum tempo para contratar outro operário após a saída do seu antecessor. Nazem (1969) evidenciou em pesquisas que há uma relação inversamente proporcional entre rotatividade e a produtividade e que isso é mais acentuado ainda nas pequenas empresas.
+
+
+
+
+Formação profissional e treinamento
+
+A construção civil no Brasil cresceu e cresce a cada dia. E tem como característica predominante a formação da mão-de-obra através do treinamento em serviço que tem como agente formador de profissionais dessa área o SENAI(Serviço Nacional de Aprendizagem). Essa educação formal tem como base além de buscar capacidade de trabalho, assiduidade, persistência e aspirações visa também o relacionamento interpessoal com um número maior de pessoas. Isso tudo acarreta maior motivação, já que os fatores motivadores só têm sentido sobre a mão-de-obra quando há qualificação profissional. Um ponto levantado por Castro, Mello e Souza (1974) é que quanto maior a mão-de-obra não qualificada mais se faz necessários introdução de cargos de chefia o aumenta a complexidade na organização do trabalho. Com base nesse pensamento é fácil concluir que a qualificação profissional eleva a produtividade pelo aumento da capacidade gerencial. Na produção individual é fato que na medida que avança o nível de treinamento a familiaridade é alcançada e a qualidade do trabalho é desenvolvida.
+
+Prática de Horas Extras
+
+Em tese essa prática traz benefícios tanto para empresa quanto para o operário. Sua função é equilibrar o fator tempo pela empresa e aumentar os ganhos do funcionário. Quando a prática de horas extras faz parte do esquema de trabalho da empresa, existem efeitos negativos.
+Segundo Barrie e Paulson (1978, c. II) essa prática gera fadiga, o que ocasiona redução na efetividade das ações dos operários, aumento no absenteísmo e atrai operários menos qualificados que com baixo salário têm por objetivo aumentar seus ganhos gerando aumento nas taxas de acidentes de trabalho. Tudo isso trará possíveis custos adicionais provenientes de erros de execução e acidentes de trabalho. Ainda de acordo com Oglesby e Parker as ultimas horas do dia diminuem a capacidade do organismo do indivíduo, e que a partir de um determinado limite não há contribuição das horas adicionadas trabalhadas ao produto.
+
+Absenteísmo
+
+O absenteísmo, ou seja, a ausência de um ou mais operários tem como consequência a elevação da duração das atividades, interrupção no processo de aprendizagem, interrupção ou diminuição do ritmo das operações dependentes. Nos casos onde o trabalho de um membro é parcela significativa, sua ausência é ainda mais sentida pelo processo produtivo. Um problema fácil de se ilustrar sobre esse fator é se houve um intervalo pequeno entre o trabalho de uma equipe que conta com ausências e das equipes dependentes, a diminuição do ritmo da primeira sem a diminuição proporcional das demais causa desequilíbrio em todo o processo.
+
+Relações contratuais
+
+Na medida em que existem formas distintas nas relações contratuais, elas tem efeitos diversos sobre a produtividade, pois as responsabilidades e atribuições são diferentes em cada contrato. As diferentes formas de remuneração podem ser objetos de incentivo mas também de inércia da eficiência. O relacionamento entre contratantes e contratados assume várias formas e implicações tanto boas quanto ruins.
+
+
+
+Mão-de-obra Subcontratada
+
+De nível macro/macro e mais utilizadas por grandes empresas, a mão-de-obra subcontratada numa visão geral são equipes especializadas, o que faz com que sua produtividade seja maior, pelos
+efeitos de repetição, continuidade e concentração.
+
+Pouco a pouco é fácil perceber os diversos fatores a nível micro e micro/micro que afetam a produtividade e suas relações, com isso pode se enxergar a importância da visão sistêmica e sua influência no sistema completo. E que de fato temos vários fragmentos variáveis que complementam o todo, ou seja, a produtividade final em si. Chegando assim a visão sistêmica já que cada fator influência no seu seguinte e que o produto final disso é uma alta ou baixa produtividade.
+
+Ante o exposto, mostra-se o quanto é preponderante para a qualidade da gestão o controle e análise dos processos de qualidade. Num cenário cada vez mais competitivo devido à visão globalizada, deve-se buscar conhecer cada pequeno fator que afete a produção, pois o tempo e os recursos são ativos que não podem ser desperdiçados. 

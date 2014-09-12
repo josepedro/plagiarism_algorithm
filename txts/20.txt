@@ -1,0 +1,49 @@
+FATORES QUE AFETAM A PRODUTIVIDADE NOS NÍVEIS MICRO e MICRO-MICRO
+
+MICRO
+
+As principais características que moldam o aspecto micro como um sistema é o gerenciamento empresarial, que constitui o mercado e políticas financeiras da empresa, e o gerenciamento de produção. Este tem como função dirigir, organizar, planejar e controlar a produção como sub sistema do gerenciamento empresarial.
+
+Para que o gerenciamento de produção tenha efetividade, é necessário reduzir o tempo não produtivo. Os principais fatores que acarretam no aumento deste tempo são a dificuldade com que operário tem em lidar com a máquina, as relações interpessoais, a motivação do trabalhador e como acontecerá o planejamento e controle para diversos projetos.
+
+Também ocorrem dificuldades na implementação do gerenciamento de produção no fluxo do processo de produto quando um setor pode estar com um tempo ótimo na fabricação enquanto outro acumula atividades acarretando um atraso no sistema. 
+
+Esses fatores citados acima propiciam uma maior chance de tempo de espera elevada, interrupções no trabalho de equipe e um maior risco de acidentes devido à falta de motivação.
+
+Para minimizar a chance de estas situações acontecerem, torna-se imprescindível a figura de um gestor que administra e supervisiona as relações pessoais e do fluxo de produção.
+
+Esta administração pode ser feita a partir de cronogramas que estabeleçam datas de início e fim das atividades e aprimorando a organização no chão de fábrica para que o tempo gasto com deslocamentos e o posicionamento de equipamentos sejam ideais.
+
+MICRO-MICRO
+
+No aspecto micro-micro, a principal figura está no operário e em sua equipe, fatores mais individuais em comparação ao sistema econômico e desenvolvimento tecnológico, abordados em outros pontos como o macro-macro ou macro.
+
+Decisões específicas e características do ambiente e da empresa se tornam mais determinantes neste aspecto. Todo o trabalho é resultado de um conjunto de operários e equipes com suas limitações, recursos e tecnologias disponíveis, este é o foco do ponto micro-micro. Este envolve o estudo das condições que afetam a produtividade no nível mais individual, e que influenciam no processo geral.
+
+A experiência do operário e da empresa passa a ter papel fundamental na produtividade analisada em nível micro-micro, pois esta atua como forma de propagação de conhecimento dentro da empresa.
+
+Todo esse complexo sistema formado pela constituição da indústria, características da empresa e do meio, além da formação e métodos individuais dos operários formam uma integrada rede no aspecto micro-micro, gerando consequências sobre a qualidade do produto e do tempo necessário para sua fabricação.
+
+Análise de Taylor e Barnes
+
+Taylor focou sua análise, que sempre foi direcionada à otimização do processo produtivo e ao aumento da produtividade, na eliminação de perdas devido ao trabalho individual dos operários, utilizando-se de um estudo aprofundado dos métodos empregados.
+
+No seu método de estudo, ele enxergou o trabalho sob duas óticas, ou parcelas: uma que está sob responsabilidade do gerenciamento, e outra que depende apenas do operário.
+
+É priorizada a redução do tempo utilizado pela eliminação de etapas desnecessárias, ou melhora de processos ineficientes. Tanto o gerenciamento como o operário tem função fundamental nisso, pois o gerenciamento toma ações no ramo do planejamento, controle e prioriza a continuidade da cadeia produtiva, já 
+o operário utiliza diretamente e efetivamente os recursos, como a matéria-prima por exemplo.
+           
+Alguns aspectos são extremamente relevantes e devem ser levados em conta pelo gerenciamento. Sendo estes aspectos resultado da integração e relacionamento entre os operários, entre a(s) equipe(s), com seus inúmeros desdobramentos e variáveis é claro:
+
+Em uma empresa o trabalho é imensamente diversificado, com diferenças nas habilidades e competências de cada operário, que devem se adequar à sua equipe, em uma espécie de ajuste dos componentes de uma equipe a fim de atingir um resultado específico da produção. Enquanto isso, paralelamente, o gerenciador não pode se esquecer do aprendizado frequente de uma nova tarefa pelos próprios operários dentro de uma equipe.
+
+Outro aspecto importante citado no texto base é a rotatividade e absenteísmo nas equipes. O controle destes pontos são importantes, já que qualquer mudança influencia na integração e capacidade de cooperação entre os integrantes, por exemplo, através de alterações nos esquemas de 'entrosamento' por repetição.
+
+Já Barnes (1977, c. 16), analisa de forma um pouco mais complexa, afirma que devemos usar nosso raciocínio para desenvolver métodos, resultado da obtenção de conhecimento, para encontrar a melhor e mais eficiente forma de combinação entre trabalho (operários) e os equipamentos. Porém, nunca deve-se esquecer das particularidades de cada uma dessas partes, como capacidade das máquinas e da mão-de-obra, entre tantas outras condições pertinentes.
+
+
+
+
+BIBLIOGRAFIA
+
+O texto que segue foi elaborado com base no texto intitulado PRODUTIVIDADE DOB A ÓTICA DOS CUSTOS DE PRODUÇÃO, baseado em SILVA, M.A.C. Identificação e análise dos fatores que afetam a produtividade sob a ótica dos custos de produção de empresas de edificações. Porto Alegre, CPGEC/UFRGS, 1986. Diss.Mestr. Por este motivo, não serão apresentadas citações.

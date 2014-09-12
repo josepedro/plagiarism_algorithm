@@ -1,0 +1,89 @@
+
+Davi Dörr de Souza - 12/0010011
+João Paulo Teodoro Mendonça – 11/0014243
+10 de setembro de 2014
+Fatores que afetam a Produtividade
+
+           A produtividade de uma determinada empresa é comumente influenciada por fatores internos ou externos ao seu sistema. O estudo desses fatores é essencial para um melhor rendimento do processo produtivo.  Todo sistema econômico mundial está baseado em processos. Mas afinal, o que é um Processo? Como ele se relaciona com a produtividade?
+Processo é o conjunto de recursos ou atividades inter-relacionados que transformam insumos em produtos. Assim sendo, a produtividade pode ser entendida como o melhor aproveitamento do processo. Onde otimizamos insumos e produção a fim de obtermos um produto de boa qualidade, baixo investimento e alta lucratividade.
+Dessa forma, qualquer atividade empresarial tem envolvimento com pelo menos um processo. É importante observar os fatores que afetam os processos e a produtividade de um sistema a fim de minimizar falhas e prejuízos no seu escopo.
+Para analisarmos melhor os fatores que afetam a produtividade dividiremos o sistema econômico em escalas: Macro/Macro, Macro, Macro/ Micro, Micro, Micro/Micro. Essas escalas representam o nível das relações que uma empresa precisa ter em sua cadeia produtiva, dês das relações de grande porte até a menor delas. Será mais fácil a visualização dessas escalas ao analisarmos cada patamar separadamente. 
+
+MACRO/MACRO
+Essas relações, assim como podemos ver em seu nome, tem como fundamento abranger interações de larga escala. Podemos citar como exemplo as relações econômicas nacionais e regionais da empresa (qual o patamar econômico que ela ocupa em sua região). 
+A nível Macro/Macro é muito importante a classificação e status da empresa, pois quanto maior o porte maior a facilidade de negociação e maior a participação da empresa no cenário regional. 
+Alguns dos fatores que podem afetar produtividade na escala Macro/Macro são:
+. Fatores do mercado
+. Níveis de produção
+. Demanda de recursos
+. Quantificação e qualificação da matéria prima e da mão de obra.
+. Tecnologia utilizada no processo produtivo
+
+           Para evitar esses fatores indesejados há uma série de medidas técnico-administrativas que podem ser tomadas como:
+           . Terceirização
+           . Redução da variabilidade
+           . Formação de mão de obra especializada
+           . Investimento em tecnologia
+
+MACRO
+No nível Macro temos como base as relações internas de grande porte da empresa. Podemos entender como fatores que afetam a produtividade desse nível os seguintes itens:
+Tecnologia Empregada
+Atuação de Cada equipe
+Ensaio do Produto
+Limitação da Produtividade
+Limitação de Capital
+
+Para resolver esses fatores podemos utilizar os seguintes artifícios:
+ Aplicação de normas técnicas
+ Controle de qualidade
+Gerenciamento e gestão de pessoal
+Layout
+Correto ordenamento de transporte de matérias.
+
+  MACRO/MICRO
+Este nível de influência sobre a produtividade, através do gerenciamento empresarial engloba implicações das decisões de projeto e das decisões de estratégia da empresa. Fatores que afetam a produtividade nesse nível são:
+Projeto de produto: tem como objetivo básico p provimento de produtos que levem em conta as características dos usuários, ambiente físico, tecnologia e custos. Os fatores condicionantes das fases do processo são: a conceituação, a programação, a analise a seleção e a interação.
+Complexidade e continuidade de execução: influi diretamente na produtividade, pela intensidade que altera as operações afetando a continuidade do processo
+Repetição das operações: representa o projeto de componentes. Estão implícitas duas fases distintas, sendo elas: primeiramente há um rápido aumento de produtividade quando o operário ou a equipe adquire conhecimento necessário ao desenvolvimento da operação. Na segunda fase há um incremento gradual de produtividade devido a uma familiarização com o trabalho e pequenas mudanças no método e organização do trabalho.
+Gerenciamento empresarial: a empresa define objetivos, métodos e estratégias com respeito ao funcionamento, e a produção.
+Tamanho e especialização da empresa: a natureza dos serviços prestados por uma empresa, mesmo sendo ela de pequeno porte, pode colocar ela em posição privilegiada no mercado, mesmo que uma empresa de grande porte tenha maior planejamento, quanto maior a mesma, mais dificuldades surgiram durante o processo.
+Motivação: a produtividade do operário tem como resultado pela eficiência, intensidade de seu esforço, que é proveniente da motivação, que o mesmo tem de executar sua tarefa. Os aspectos que podem aumentar a motivação do operário, além do salário, vêm das condições de trabalho, realização pessoal, chance de progresso, e realização pessoal.
+Incentivos financeiros: podem influenciar diretamente sobre a motivação dos operários e sobre a qualidade do gerenciamento, que determina sua influência na produtividade.
+Segurança no trabalho: as condições de trabalho dizem respeito aos riscos inerentes ao tipo de trabalho desenvolvido, proteção e a variável que engloba todos equipamentos de proteção em si ou de proteção individual dos operários. A segurança do trabalho age sobre a produtividade, na medida em que o comportamento dessas variáveis participa da caracterização do contexto de trabalho, a segurança constitui-se em condição básica para que haja satisfação no trabalho.
+Rotatividade: pode ser relacionada com os ciclos econômicos e com as relações de trabalho, constituindo um fenômeno de ajustamento da mão de obra frente as alterações do mercado de trabalho.
+Formação profissional e treinamento: sendo a união entre o processo de desenvolvimento das aptidões profissionais do indivíduo, e a ação coordenada para a utilização especifica de meios, processos e técnicas visando a solução de problemas de produção através do aumento de eficiência profissional e da melhoria de produtividade do profissional.
+Práticas de horas extras: pratica comum nas empresas, porem poder levar a fadiga, diminuindo a produtividade, e aumento do absentismo.
+Absentismo: ausência de um ou mais operários de uma equipe por um determinado intervalo de tempo ou durante todo o período de trabalho.
+Relações contratuais: regulam a participação de cada um no processo e determina a forma como se desenvolve o relacionamento entre os mesmos a partir de suas responsabilidades.
+Utilização da mão-de-obra subcontratada: de modo geral equipes subcontratadas são equipes especializadas, o que faz com que sua produtividade seja maior em relação a mão-de-obra própria.
+MICRO
+Refere-se a materialização do projeto como um todo e envolve recursos cujo a responsabilidade é do sistema gerencial da empresa. A integração entre o gerenciamento empresarial e o gerenciamento da produção deve assegurar a viabilidade e as condições de trabalho necessárias à utilização desses recursos.
+O gerenciamento da produção afeta a mão-de-obra nos seguintes aspectos:
+Determinação do número e tipo de atividades e operações necessárias para o cumprimento das especificações do projeto;
+Determinação do sequenciamento das operações;
+Determinação dos métodos de execução;
+Determinação da duração das atividades;
+Dimensionamento das equipes e deslocamento de seus membros ao longo do leiaute da fábrica;
+Estabelecimento do cronograma de execução com a previsão de datas de início e fim das atividades;
+Garantia de provimento de recursos (mão-de-obra, materiais, ferramentas e equipamentos) de acordo com a programação de tempo elaborada;
+Garantia de provimento de um fluxo de informações adequado a programação de forma que todos os elementos envolvidos recebam as instruções necessárias previamente ao início do trabalho;
+Supervisão da produção;
+Provimento de condições de circulação no interior da fábrica;
+Monitoramento e realimentação da programação.
+Os mecanismos listados inibem o potencial de aumento de produtividade presente nas funções de controle. A organização do chão da fábrica determina em parte a eficiência do fluxo de recursos.
+
+MICRO/MICRO
+A figura central é o operário, ou a equipe individualmente. As conjunções dos métodos individuais das equipes, da tecnologia, dos recursos disponíveis na empresa e das decisões do gerenciamento resultam no processo dos métodos de trabalho.
+Se o gerenciamento tem sob seu encargo funções de planejamento e controle a efetividade de utilização dos recursos depende dos métodos de trabalho empregados
+
+
+
+
+
+
+
+
+
+
+
+O texto que segue foi elaborado com base no texto intitulado PRODUTIVIDADE SOB A ÓTICA DOS CUSTOS DE PRODUÇÃO, baseado em SILVA, M.A.C. Identificação e análise dos fatores que afetam a produtividade sob a ótica dos custos de produção de empresas de edificações. Porto Alegre, CPGEC/UFRGS, 1986. Diss.Mestr. Por este motivo, não serão apresentadas citações.

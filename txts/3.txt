@@ -1,0 +1,55 @@
+Universidade de Brasília-FGA
+Disciplina: Gestão da Produção e Qualidade
+Professora: Maria de Fátima
+Data: 10/09/2014
+Alunos: Daniel Alves Moura       130106411
+             Alessandra Maia Freire  130099538
+EXERCÍCÍO 01
+FATORES QUE AFETAM A PRODUTIVIDADE
+Brasília, 10 de setembro de 2014.
+Fatores que afetam a produtividade das empresas
+O texto aqui apresentado foi elaborado com base no texto intitulado PRODUTIVIDADE SOB A ÓTICA DOS CUSTOS DE PRODUÇÃO, baseado em SILVA, M.A.C. Identificação e análise dos fatores que afetam a produtividade sob a ótica dos custos de produção de empresas de edificações. Porto Alegre, CPGEC/UFRGS, 1986. Diss.Mestr.
+O mercado mundial vem passando por um processo histórico de mudanças que estão intimamente ligadas a produtividade, como por exemplo a otimização do tempo na produção de insumos , a eficiência nos processos individuais que evitem desperdícios de matéria prima, tempo e mão-de-obra. Isso implica no desenvolvimentos de vários segmentos dentro de uma empresa que buscam otimizar os resultados a serem obtidos pela mesma.
+Essas mudanças foram ocorrendo por meio de quebras de paradigmas e revoluções tecnológicas, que visavam uma maior lucratividade para a empresa, principalmente através da redução de custos no sistema de produção. Alguns  dos modelos pioneiros desses sistemas de produção foram o  de Taylor,  Kellog, e Howell.
+Eles tinham como princípios fundamentais a efetividade nas operações de todos os elementos de trabalho, maximizar a produtividade global do empreendimento, e gerenciar as atividades pois como elas estavam interrelacionadas a falha de uma delas podia afetar o sistema inteiro. 
+O modelo constitui-se no estabelecimento dos níveis decisórios que afetam a produtividade, são eles os níveis macro, micro, macro/micro, e micro/micro.
+Nível Macro/macro
+O nível macro/macro tem como base as economias globais e setoriais, ele possui a visão mais geral dentre todos os outros níveis, ele visa o nível de flutuação da demanda como sendo equivalente ao nível de produção do setor, de modo que se produza a quantidade necessária ao uso. Essa categoria trata também da mobilização e desmobilização de Mao de obra, as diferenças salariais dos operários. 
+As diferenças regionais nos locais de industria de certa forma influenciam na produtividade, uma vez que as leis empresariais, a disponibilidade de recursos no local aonde a empresa se encontra alocada, a densidade populacional local e a tecnologia disponível, são categorias que, em geral que afetam a produtividade da empresa como um todo, podendo limita-la ou ate impulsiona-la dependendo da região.
+Nível Macro 
+O nível macro trata das políticas, critérios e objetivos por intermédio do gerenciamento operacional das relações condicionantes do processo, ele trata de todos os fatores que envolvem o laboratório de ensaios. Isso quer dizer que as atividades realizadas dependem de vários condicionantes, tanto do mercado externo (as condições de oferta e demanda do mercado, o poder de compra do público alvo, e o serviço ou produto ofertado) como do mercado interno ( compra de matéria prima, contratação de de mão de obra, e serviços contratados).
+Além desse fatores ainda temos o ambiente físico, no qual deve  ser alocado todos os materiais e equipamentos de forma organizada, para que  pessoas e equipamentos possam se mover livremente e que proporcione conforto tanto para os trabalhadores como aos demais funcionários da empresa. Assim quanto mais tecnologia  empregarmos, mais valor agregado o produto final terá, e proporcionará um a maior lucratividade.
+>Utilização de insumos
+Podemos aumentar a lucratividade da empresa de diversas formas, uma delas é através da utilização otimizada das matérias-primas.
+Menos desperdício, utilização de sobras, lotes econômicos e tempos corretos de res suprimento são sinônimos de redução de custos, o que pode deixar a empresa mais competitiva no mercado. Existem tecnologias e softwares que podem ajudar a sua empresa a conquistar esta condição.
+Estrutura organizacional da empresa . A estrutura organizacional da empresa tem que estar bem definida, isto é, tem que haver um estudo detalhado para que as decisões não tenham que passar por muitos níveis, impedindo assim a agilidade da empresa.
+Nível Macro/Micro
+    O nível Macro/micro abrange, especificamente: o tamanho e a especialização da empresa, a motivação tanto por parte da empresa e dos empresários quanto por parte dos operários, o que inclui a pratica de horas extras, os incentivos financeiros, o absenteísmo ou a frequência dos operários na empresa e seus motivos de falta, a rotatividade dos trabalhadores contratados e sua formação profissional para a contratação.
+A segurança no trabalho e, igualmente, um fator de extrema importância já que engloba o conceito de qualidade de vida do trabalhador o que, consequentemente, afeta sua produtividade no ambiente de trabalho. Esse nível trata também das relações contratuais entre empresário e operário.
+Nível Micro
+    Ao se observar o nível micro, percebe-se a correlação existente entre o gerenciamento empresarial e o gerenciamento da produção, ele visa o gerenciamento operacional, o numero e o tipo de atividades, o que engloba os processos de teste, os métodos e a supervisão da execução, de modo a garantir a qualidade dos processos, a organização dos cronogramas e o dimensionamento das equipes. A praticidade do ambiente laboratorial também e um fator de grande importância, pois a circulação no interior da fabrica e a facilidade do fluxo de informações agilizam a dinâmica do processo, evitando assim, a perda excessiva e desnecessária de tempo.
+>Metodologia de Trabalho Utilizada:
+Quando a empresa produz, respondendo somente a demanda gerada pelas vendas, corre-se o risco de sua capacidade produtiva, em alguns momentos, ficar ociosa e em outros, apresentar-se com gargalos, isto é se não houver um controle sobre as oscilações da demanda, a produtividade vai ficar instável sem um mercado ativo para receber os produtos.
+Mas existem aquelas empresas que trabalham utilizando toda a sua capacidade produtiva e, em alguns momentos, quando a demanda é baixa, geram-se estoques em processo tendo como consequência o aumento dos custos, reduzindo a produção e os lucros.
+>Práticas Gerenciais de Controle:
+    O uso da tecnologia no gerenciamento de empresas é uma realidade e, quem não acompanhar esta tendência, estará perdendo tempo e dinheiro. A informação rápida e correta pode ser um diferencial para enfrentar a concorrência.
+Um controle de estoque eficiente pode reduzir os atrasos na entrega de produtos acabados e auxiliar uma melhor negociação com os seus fornecedores. Um sequenciamento otimizado do processo produtivo pode evitar desperdício de mão de obra e proporcionar a utilização ideal da matéria-prima e insumos processados na empresa.
+    O controle da produtividade é importante para sempre estar medindo o desempenho da sua empresa.
+Neste sentido, o mercado oferece uma série de sistemas, denominados ERP ́s, que possibilitamos controle necessários para todos os setores da sua empresa.
+>Trabalhando com Metas:    
+Quando a empresa conhece a sua demanda e a sua capacidade produtiva, pode determinar metas para a produção. Atingindo estas metas, a empresa melhora a sua produtividade, pois trabalha num ritmo “ideal” de produção, dispondo do tempo ocioso, caso este exista, da melhor forma possível, podendo utilizá-lo para o treinamento dos colaboradores, manutenção preventiva das máquinas, banco de horas, e outros.
+Nível Micro/micro
+    O nível Micro/micro abrange, basicamente os métodos de trabalho, visando o trabalhador e seus recursos. Ele trata da movimentação dos operários e suas dinâmicas diárias, a rotatividade de contratação, a exposição do local de trabalho, as condições climáticas do local de trabalho, a qualidade do ambiente de trabalho em que o operário exerce sua função. Ao analisar cada um dos trabalhadores, esse nível engloba as diversidades de habilidades e experiências entre os trabalhadores e os métodos individualizados de cada um as praticas da empresa.
+>Mão de Obra:
+Manter a equipe de colaboradores bem treinada e motivada é essencial para uma boa produtividade nas em presas. O “Efeito da Aprendizagem” é uma das principais consequências do trabalho continuado. Através da implantação de metodologias específicas, podemos alcançar o entrosamento da equipe, bem como uma supervisão mais eficaz.
+A motivação dos colaboradores também é importante, pois pessoas motivadas produzem mais. A busca constante de fatores motivadores da equipe é uma exigência atual para os chefes de produção, ou seja, a produtividade esta intimamente ligada aos fatores ambientais e remunerativos do trabalho. A boa utilização do horário disponível de trabalho é fundamental para se alcançar aumentos de produtividade.
+Deve-se evitar paradas que quebrem o ritmo da produção bem como as paradas desnecessárias, pois interrompem a dinamicidade do processo.
+>Chão de Fábrica e Ferramentas:
+A disposição adequada de máquinas e de bancadas de trabalho é muito importante para a otimização da produtividade. Um arranjo bem feito pode evitar “cruzamento” de processos e produtos, minimizando os tempos de transporte interno, bem como os esforços físicos dos trabalhadores e os acidentes provenientes da movimentação de produtos.
+A utilização de ferramentas adequadas ao processo produtivo pode aumentar a sua eficiência e eficácia, maximizando o desempenho da mão de obra, consequentemente ampliando o mercado econômico onde uma determinada empresa atua, e suas relações econômicas, e produtivas.
+QR†
+‡
+		
+R‡
+gd«^M	A escolha de como montar uma linha de produção pode ajudar no aumento da produtividade. Caso não seja possível montar linhas seriadas em todo o processo, deve-se pelo menos, seriar algumas etapas. A utilização de pulmões (“estoques estratégicos”) na linha de produção pode ajudar a identificar gargalos (decaimentos) na produção, e assim melhorar na eficiência do processo.
+Pessoas certas, em níveis bem definidos, devem ter autonomia para a tomada de decisões. Uma hierarquia bem definida deixa sua empresa menos burocrática e com facilidade de acesso à informação.

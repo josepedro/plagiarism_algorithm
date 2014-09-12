@@ -1,0 +1,53 @@
+Fatores que afetam a Produção
+
+Introdução →
+
+Kellong, Howell e Taylor desenvolveram um modelo com a finalidade de equalizar os fatores que afetam a produtividade de forma eficiente. Assim, os princípios adotados foram:
+
+
+* Minimizar a produtividade total;
+* A produtividade deve ser incrementada através de controles;
+* Ponto central como efetividade e não eficiência;
+* O conhecimento sobre produtividade em um setor não pode ser diretamente aplicado em outro setor;
+
+Os fatores que afetam a produtividade foram subdivididos e alocados em diferentes subníveis, estes são:
+Macro/Macro: nível que traz fatores que se originam no sistema econômico e configuram as políticas econômicas globais e setoriais;
+Macro: representa a interpretação das políticas econômicas através da alocação de recursos, definição de critérios diretores e condicionantes que dão origem ao projeto de gestão da produção;
+Macro/micro: processos de projeto, gerenciamento empresarial, segurança do trabalho, etc.
+Micro: gestão da produção (planejamento e controle);
+Micro/micro: formado por elementos do processo de fabricação (métodos de trabalho) de manufaturas.
+
+
+Fatores atuantes no nível macro/macro → 
+
+Influência se encontra em fatores provenientes do sistema econômico, estando basicamente ligada a três pontos chave: nível de atividade do setor, utilização da capacidade instalada e diferenças regionais.
+O potencial de sucesso está intimamente ligado à capacidade tecnológica, que maximiza a produção por unidade de tempo e à capacidade econômica, que é determinante do ponto de vista limitador de recursos disponíveis a serem aplicados.
+As diferenças regionais são influentes do ponto de vista de que regiões com maiores densidades populacionais possuem mais recursos incluindo mão de obra capacitada.
+
+Fatores atuantes no nível macro → 
+
+Nesse nível agrupam-se os fatores condicionantes do processo de projeto. Partes determinadas por condições naturais e sócio-econômicas que restringem os parâmetros de projeto. 
+O ambiente físico, elementos institucionais, a tecnologia empregada e os custos são fatores condicionantes quando se trata de um projeto.
+
+Fatores atuantes no nível macro/micro → 
+
+Neste nível estão presentes as inferências das decisões tomadas no projeto e na elaboração da estratégia empresarial, por meio da gestão da empresa. Entretanto, devemos levar em consideração as diferenças intrínsecas a cada empresa e ramo empresarial, ou até mesmo do próprio projetista; que se tornam fatores condicionantes da produtividade. 
+
+
+
+
+Fatores atuantes no nível micro →
+
+Faz alusão à síntese do projeto de uma visão geral e possui um fator limitador cuja responsabilidade de geri-lo é do sistema gerencial da empresa, esse fator é o fluxo de recursos.
+A integração de diferentes áreas, como a gerência empresarial e da produção são de extrema importância e devem garantir a viabilidade do projeto assegurando condições de trabalho e disponibilizando recursos.
+A estratégia da empresa diante do mercado e as decisões cabíveis quanto a política financeira são de responsabilidade do gerenciamento empresarial, enquanto o gerenciamento de produção se volta para dentro da empresa, gerindo, organizando e controlando os processos de produção necessários.
+
+Fatores atuantes no nível micro/micro → 
+
+Aqui, a figura central é o trabalhador ou a equipe empregada, tratados em suas individualidades. O resultado final eficaz é resultado da interação dos métodos individuais das equipes e insumos. Obviamente, esse nível é extremamente dependente da formação profissional de cada operário e suas características.
+
+O mercado internacional é caracterizado por uma forte competição que gera pressão competitiva. A pressão competitiva é um fator que tende  impulsionar empresas de diversos segmentos a buscarem maior eficiência. É importante ressaltar que a diversificação da produção iniciou-se com a crise do petróleo na década de 1970. Outras dimensões de competição passaram a ser exploradas pelas empresas, tais como custo, qualidade, velocidade, flexibilidade e inovação.
+A crise do petróleo alterou, em um contexto geral, a relação entre capacidade e demanda. Quando a demanda se tornou superior a oferta, as empresas passaram a adotar estratégias de produção. Apesar do maior custo de produção, produzir lotes de produtos mais variados (customização em massa) passou a ser mais interessante que a produção regular em massa.No Brasil as alterações se manifestaram quanto à necessidade de modernização e eficiência do setor industrial, entretanto para o vigor de tais modificações fez-se necessário repensar a política industrial. 
+A capacidade de competição de uma empresa é fundamentada na relação entre sua eficiência na produção e ao tratamento dado às demandas. A configuração e o funcionamento de uma empresa envolvem suas características particulares como seus estoques globais, ativos fixos e até mesmo seus dados sobre tempo de atravessamento, por exemplo, junto a um amplo quadro de políticas industriais.
+A solidificação de uma política industrial é estruturada em uma integração harmônica das ações governamentais com o setor privado e comunidade científica e tecnológica. Condições de acesso a créditos, relações industriais, políticas de importação e exportação, sistemas de inovação e tamanhos dos mercados também são aspectos relevantes em se tratando de modernização e eficiência do setor produtivo. 
+

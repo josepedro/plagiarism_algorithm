@@ -1,0 +1,68 @@
+Universidade de Brasília (UnB/FGA)
+Gestão da Produção e Qualidade
+Professora: Maria de Fátima
+João Vitor Leite Pedrosa – 13/0011363
+Iago Campos Mameri – 13/0114383
+Fatores que afetam a produtividade (FAP)
+	Kellog, Howell e Taylor (1981) criaram um modelo que classificação dos fatores que interferem na produtividade da construção civil. Entretanto, esse modelo foi adotado para identificar fatores que atuam no setor industrial em geral.
+	O modelo se baseia no estabelecimento dos níveis em que são identificados os fatores que afetam a produção:
+o nível macro/macro traz fatores que se formulam no sistema econômico e configuram as políticas econômicas globais e setoriais; 
+o nível macro refere-se a interpretação dessa políticas por meio da alocação de recursos, definição de critérios e objetivos; 
+o nível micro/macro é formado por elementos do processo de manufatura; 
+o nível micro compreende o processo de projeto, gerenciamento empresarial, segurança do trabalho, entre outros fatores; 
+o nível micro/micro engloba o planejamento e controle da produção.
+	No nível macro/macro, atuam os fatores advindos do sistema econômico. Estes influenciam a produtividade por meio do nível de atividade no setor, utilização da capacidade instalada e diferenças regionais.
+	O nível de atividade do setor engloba variações referentes à demanda. A imprevisibilidade da demanda em relação aos produtos da empresa provoca uma perda de controle desta sobre os níveis de produção. Essa falta de controle atinge a empresa em três níveis básicos: o nível tático, nível estratégico e no relacionamento com os setores fornecedores.
+	A terceirização implementada no setor produtivo retorna uma maior especialização, que resulta em maior produtividade. Essa fragmentação da produção no nível estratégico dilui o controle sobre o produto final no que tange ao emprego de recursos e o desempenho técnico das partes.
+	No intuito de escapar dos custos provenientes da baixa utilização da capacidade instalada, as empresas, a nível tático, desenvolvem projetos com reduzida velocidade de trabalho, devido a flutuação da demanda. Desse modo, o trabalho é executado de maneira mais lenta e inicia-se um processo de prolongamento da duração das atividades, que resulta na elevação de custos.
+	O relacionamento com o mercado fornecedor é influenciado no setor da utilização da matéria prima e mão de obra. O menor volume de trabalho provocado a nível tático reduz o poder de barganha das empresas em respeito as quantidades adquiridas. O alto custo da matéria prima induz a empresa a adquirir produtos mais baratos, que reduzem a qualidade. Isso afeta os custos de perdas de matéria prima devido a maior vulnerabilidade a carga, descarga, produção e manuseio, que afetam o trabalho da mão de obra.
+	A mão de obra é influenciada por causa da política de emprego adotada. Essa política estabelece um equilíbrio entre a mão de obra qualificada e não qualificada empregada. A pressão da oferta da mão de obra sobre o mercado compromete esse equilíbrio. Assim, o emprego exagerado da mão de obra não qualificada influencia a produtividade, principalmente, em relação às dificuldades de adaptação às operações que envolvem o processo de produção. Desse modo, há uma elevação dos custos de produção causado pela baixa produtividade.
+	As flutuações nos níveis de atividade atingem de forma diferenciada as empresas em relação à sua abrangência. As grandes empresas que atuam em mercados mais amplos são capazes de manter inalterada a intensidade de trabalho por causa do capital disponível. Essas empresas buscam expandir sua atuação no mercado, distendendo largamente sua estrutura de produção. Enquanto isso, empresas menores tentam manter a continuidade produtiva embasada em um ritmo mais lento.
+	A capacidade de uma empresa é medida levando em conta a disponibilidade de materiais, equipamentos, mão de obra e capital e a capacidade gerencial da empresa.
+Alterações no equilíbrio econômico e relações entre a oferta e a demanda influenciam a determinação da capacidade empresarial. O grau em que a capacidade disponível é utilizada também exerce influencia nesses fatores, principalmente relacionada a produtividade da mão de obra.
+	As empresas buscam conter os efeitos do baixo uso da capacidade instalada a partir da redução da incidência dos custos fixos nos custos dos produtos. Desse modo, a produção fica ligada a uma estrutura de baixos custos indiretos. Isso pode afetar negativamente  a produtividade seja pela inadequação da estrutura organizacional, seja pelas condições inapropriadas da fábrica, em relação às instalações e equipamentos, que estão ligadas a custos indiretos.
+	A instabilidade referente aos níveis de utilização da capacidade instalada levam empresas a adotarem uma política de manutenção de custos. Essa política interfere no campo empresarial de modo que, apesar de manter os níveis de produtividade, ela dificulta a inovação e pode impedir a melhoria produtiva.
+	As diferenças regionais de produtividade são provenientes não da divisão territorial em si, mas da variabilidade socioeconômica entre as regiões. Regiões mais populosas, geralmente apresentam maior eficiência industrial e menor consumo de mão de obra.
+	As diferenças regionais se tornam visíveis, também, no tipo de tecnologia empregada, na qualidade da mão de obra e na experiência das empresas. Esses fatores provocam uma heterogeneidade produtiva quanto ao consumo e custo de mão de obra, além do tempo de produção e a qualidade dos produtos.
+	Outro fator referente as diferenças regionais, é a migração. Esse processo envolve a adaptação de pessoas às características da mão de obra tanto empresarial como regional.
+	No nível macro,  inserem-se os fatores que condicionam o processo de projeto que constituem em elementos estabelecidos por condições em que as possibilidades da empresa ficam restritas. Esses elementos podem ser o ambiente físico, a tecnologia, o custo e os aspectos institucionais.
+	O ambiente físico refere-se a localização e condições climáticas as quais a indústria está sujeita. A localização interfere em relação ao acesso da mão de obra e dos carregamentos de matéria prima e equipamentos.
+	A tecnologia interfere ao passo que as características tecnológicas do processo produtivo podem limitar a produtividade. O desempenho do produto ou suas partes em relação a aspectos como segurança, higiene e uso são aspectos referentes as normas funcionais. O custo do produto age tanto pelo lado da tecnologia aplicada quanto pelo lado da qualidade. A qualidade do produto é repercutida no custo dele, de estão diretamente ligados.
+	Há uma relação entre o custo, qualidade e o volume possível antes que o mercado seja saturado. Empresas buscam fornecer produtos de alta qualidade onde há maximização do lucro.
+	As características do mercado local ( condições socioeconômicas, condições culturais, topográficas, climáticas, entre outras ) determinam o nível mínimo que uma indústria pode produzir.
+	No nível micro/macro, a influencia da produtividade engloba os fatores da divisão do projeto e as decisões da empresa por meio do gerenciamento empresarial.
+	O projeto da empresa constitui um elo inicial que compõe o produto. Além disso, ele é um fator determinante para o processo de produção e o processo de utilização do produto. O processo do projeto leva em conta as características dos usuários, o ambiente físico, tecnologia e custos.
+	O custo de uma operação é resultado do somatório dos custos envolvidos na mão de obra, na utilização da estrutura física, na matéria prima, nos equipamentos e nos serviços auxiliares.
+	Um projeto de um produto deve englobar alguns aspectos:
+a configuração do produto, que leva em conta quantidade de operações;
+a forma geométrica, que envolve fatores como o transporte, circulação e outros aspectos;
+posicionamento de elementos e unidades funcionais;
+listas de matérias primas utilizadas;
+O nível de complexidade e o tempo de continuidade de execução do projeto é determinado pela configuração do produto e pelas características dos elementos componentes e materiais empregados.
+A especificação da matéria prima é determinada pela influencia que ela tem no número de operações. De modo que ao possibilitar uma repetição considerável de operações, a empresa obtém ganhos de produtividade. 
+O gerenciamento empresarial constitui um processo no qual a empresa define objetivos, metas e estratégias. Assim, ele determina se haverá expansão da empresa e qual o tipo de produto em que toda a atividade deve se concentrar.
+O tamanho e a especialização da empresa repercutem no acesso a fonte de recursos financeiros. De modo que eles proporcionam uma infraestrutura adequada à melhoria das atividades produtivas, como a capacidade de diversificação e o poder de barganha.
+A motivação consiste no esforço organizado para agir no sentido de satisfazer necessidades ou desejos. Isso é necessário no âmbito empresarial pois enfatiza os objetivos da empresa, além de se expressar no próprio trabalho, como uma realização pessoal ou uma chance de progresso.
+A motivação no meio empresarial, entretanto, necessita de incentivos financeiros para se retornar algum resultado. Os incentivos financeiros podem ser relacionados a sistemas em que uma porção dos ganhos das operações está ligada a um ou vários critérios de desempenho no trabalho. Eles estão relacionados ao desejo de melhoria da produtividade e redução de custos com o emprego de fatores como:
+diminuição de acidentes de trabalho;
+controle e planejamento de obra;
+melhoria na qualidade de produtos, entre outros.
+Desse modo, incentivos financeiros estão diretamente ligados à motivação dos operários e a qualidade do gerenciamento. A motivação financeira funciona como um estímulo para a busca pela eficiência na indústria.
+O nível micro influencia a produtividade quando se refere a materialização do projeto como um todo. Ele envolve todo o fluxo de recursos cuja aplicação é a responsabilidade do sistema gerencial da empresa.
+Deve haver uma integração entre os gerenciamentos produtivo e empresarial para possibilitar as condições de trabalho necessárias a utilização de recursos.
+Enquanto o gerenciamento empresarial deve definir a estratégia econômica, estratégica e administrativa da empresa frente ao mercado, o gerenciamento produtivo deve organizar e controlar a produção dentro do gerenciamento empresarial.
+O gerenciamento da produção interfere na produtividade da mão de obra por meio da determinação de alguns fatores:
+número de atividades e operações necessárias para o projeto;
+sequenciamento das operações e métodos de execução;
+duração das atividades;
+dimensionamento das equipes e posicionamento dos seus membros na fábrica;
+cronograma de execução;
+supervisionamento, entre outros.
+O gerenciamento da produção deve agir de modo a reduzir o tempo não produtivo e otimizar o sistema de produção a partir da organização deste.
+O nível micro/micro tem, como figura central, o operário ou a equipe. Ele envolve os métodos de trabalho, que abrangem a diversidade de habilidades e experiências e são fatores importantes para elevar a eficiência produtiva. Os métodos de trabalho passam por um período de uniformização no intuito de homogeneizar e especificar as atividades desenvolvidas, que contribuem para uma melhoria nos aspectos produtivos.
+Deve-se encontrar uma combinação eficiente entre mão de obra, materiais, maquinas e equipamentos de modo que a produção seja otimizada.
+A otimização dos movimentos é verificada na existência de um lugar fixo para as ferramentas, que devem ser dispostos próximos ao lugar de uso de modo a permitir a melhor sequencia possível de movimentos, iluminação adequada, elementos auxiliares que possibilitem um ambiente de trabalho saudável.
+A otimização nesse setor busca o trabalho em equipe, que pode, a longo prazo, dependendo das características dos operários, promover uma uniformização das atividades.
+	
+	
+	

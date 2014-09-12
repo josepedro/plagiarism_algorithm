@@ -1,0 +1,39 @@
+FATORES QUE AFETAM A PRODUTIVIDADE A NÍVEL MICRO/MICRO NO CONTEXTO ECONÔMICO
+Bruno Contessotto Bragança Pinheiro
+Letícia Leite Munhoz
+RESUMO
+Este trabalho tem como objetivo desenvolver o conceito de fatores que afetam a produtividade de um laboratório de inspeção da qualidade a nível micro/micro. Tal conceito é tratado na disciplina de Gestão e Produção da Qualidade do curso de Engenharias da Faculdade UnB Gama, Universidade de Brasília. Primeiramente o assunto é tratado de forma abrangente para que haja uma noção global do assunto tratado e após essa primeira análise, o texto trata do conceito contextualizado no trabalho desenvolvido na disciplina em questão.
+Palavras-chave: Produtividade; Qualidade; Gestão; Fatores que afetam a produtividade.
+ABSTRACT
+This paper aims to develop the concept of factors affecting the productivity of a laboratory quality inspection of micro/micro level. Such a concept treats in the discipline Gestão e Produção da Qualidade of the course Engenharias of Faculdade UnB Gama, Universidade de Brasília. First the subject is treated comprehensively so that there is a global notion of the subject and after this first analysis, the text discusses the concept contextualized the work in the discipline in question. 
+Keywords: Productivity; Quality; Management; Factors affecting productivity.
+INTRODUÇÃO
+	Os fatores que afetam a produtividade é um tema de extrema importância no que tange o contexto econômico atual. Desde a revolução do meio produtivo, a qualidade tornou-se essencial para a competitividade das empresas no mercado. 
+Ao se estudar os fatores que afetam a produtividade, busca-se atingir um nível de desenvolvimento teórico para buscar a compreensão dos métodos de melhoria e otimização da produtividade. Assim, a otimização leva a competitividade da empresa no mercado, e ao padrão de excelência nos produtos e serviços.
+	Nesse contexto, Kellog, Howell e Taylor (1981) desenvolveram um modelo com a finalidade de hierarquizar os fatores que afetam a produtividade. Tal modelo estabelece cinco níveis, de macro/macro a micro/micro. Neste estudo de pesquisa será desenvolvido o conceito que tange o nível micro/micro, ou seja, os elementos do processo produtivo em si.
+	O conceito micro/micro caracteriza-se pela parte representada pelos elementos inerentes ao processo de produção, bem como funcionários capacitados, gestão de pessoas bem estruturada e otimização da produtividade dos funcionários, afim de reduzir as perdas de produtividade a nível individual.
+	Desta forma, o artigo busca contextualizar a importância dos recursos humanos na produtividade geral da empresa em questão, no caso do trabalho em estudo, o laboratório de qualidade.
+FATORES QUE AFETAM A PRODUTIVIDADE
+A produtividade, em um contexto econômico, é a capacidade dos fatores que afetam a produção para criar produto. É comum utilizar a expressão "produtividade", associada à produtividade do trabalho, ou seja a quantidade de produto que se obtêm, utilizando uma unidade de fator trabalho. No entanto, para estimar a produtividade deve-se levar em conta não só o trabalho, mas sim todos os   HYPERLINK "http://pt.wikipedia.org/wiki/Fatores_de_produ%C3%A7%C3%A3o" \o "Fatores de produção"  fatores de produção . 
+Economicamente, produção é fruto da combinação dos fatores de produção que têm como finalidade satisfazer as necessidades do ser humano. A um nível de análise mais abrangente, a produção deve ser otimizada de tal forma a prover um rápido desenvolvimento dos produtos, afim da satisfação total do cliente.
+Neste sentido, o estudo dos fatores que afetam a produtividade é essencial para compreensão do funcionamento da produtividade, para que a otimização dessa seja feita de forma a atingir a excelência.
+FATORES QUE AFETAM A PRODUTIVIDADE A NÍVEL MICRO/MICRO
+No nível micro/micro, a figura central é o operário e a equipe de trabalho, mas também tem seu foco nos métodos de trabalho.
+	Métodos de Trabalho como um todo pode ser análise por suas partes, sendo elas métodos individuais das equipes, tecnologias utilizadas, recursos disponíveis na empresa e decisões de gerenciamento.
+Frederick Taylor buscou a melhoria da produtividade através da eliminação de perdas no trabalho individual dos operários, por um meio de análise detalhada da separação de tarefas básicas (planejamento e execução), om a finalidade de eliminar tarefas ou operações desnecessárias e otimizar o tempo de execução.
+O nível micro/micro trabalha de forma a organizar as atividades sequenciais afim de otimizar o processo como um todo. Organizando as atividades isoladamente, o processo como um todo tem o seu nível de produtividade otimizado.
+	Exemplificando, em uma produção pensa-se, em cada etapa do processo produtivo, em uma ordem sequencial. Desta forma trabalha-se a melhor configuração possível do layout das máquinas, e a melhor organização possível dos horários das atividades, para que não haja tempo ocioso entre elas, visando uma produtividade que aproveite com mais eficiência o tempo de trabalho.
+FATORES A NÍVEL MICRO/MICRO CONTEXTUALIZADO NO LABORATÓRIO DE QUALIDADE
+A nível micro/micro, os fatores que afetam a produtividade representam a parte de recursos humanos da organização. De forma mais específica, consiste em uma boa gestão de pessoas afim de maximizar o rendimento dos funcionários para que haja um retorno efetivo na produtividade final da empresa.
+O trabalho desenvolvido na disciplina de Gestão e Produção da Qualidade visa simular um ambiente de um laboratório de qualidade em algum ramo da engenharia, afim de colocar em prática conceitos tratados em teoria. Neste sentido, o laboratório deve apresentar um padrão de excelência em qualidade.
+Desta forma, o laboratório deve ter a melhor configuração possível para que o trabalho possa se desenvolver da forma mais fluida possível. Bem como os horários das execuções das tarefas devem ser organizadas para que o tempo de produção seja o mais eficiente e eficaz possível.
+CONSIDERAÇÕES FINAIS
+	O estudo dos fatores que afetam a produtividade é essencial para compreensão do funcionamento da produtividade, para que a otimização dessa seja feita de forma a atingir a excelência.
+	O trabalho desenvolvido na disciplina de Gestão e Produção da Qualidade visa simular um ambiente de um laboratório de qualidade em algum ramo da engenharia, afim de colocar em prática conceitos tratados em teoria.
+Assim, o laboratório deve ter a melhor configuração possível para que o trabalho possa se desenvolver da forma mais fluida possível. Bem como os horários das execuções das tarefas devem ser organizadas para que o tempo de produção seja o mais eficiente e eficaz possível.
+	
+REFERÊNCIAS
+	O texto que segue foi elaborado com base no texto intitulado PRODUTIVIDADE SOB A ÓTICA DOS CUSTOS DE PRODUÇÃO, baseado em SILVA, M.A.C. Identificação e análise dos fatores que afetam a produtividade sob a ótica dos custos de produção de empresas de edificações. Porto Alegre, CPGEC/UFRGS, 1986. Diss.Mestr. Por esse motivo não serão apresentadas citações.
+ 
+ Aluno de graduação de Engenharia de Software na Universidade de Brasília – UnB –   HYPERLINK "mailto:bbraganca1991@gmail.com"  bbraganca1991@gmail.com 
+ Aluna de graduação de Engenharia Aeroespacial na Universidade de Brasília – UnB – leticialmunhoz@gmail.com

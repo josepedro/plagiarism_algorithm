@@ -1,0 +1,157 @@
+Alunos: João Paulo Dias Lenhardt  10/0052622
+David Souza da Silva 13/107107
+
+
+
+
+Fatores que afetam a produtividade
+
+
+
+
+
+
+Brasília 10 de setembro de 2014
+
+2
+Introdução
+
+
+Será apresentado como diversos fatores interferem na produtividade, com a ótica dos custos de produção visando não à eficiência, mas sim a sua efetividade. É necessário realiza-la para evitar problemas na produção industrial, exemplo é quando um setor é mais produtivo que outro acaba atrapalhando os outros setores, para conter e melhorar esses fatores dividirá em cinco etapas ou níveis que são MACRO/MACRO, MACRO MICRO/MACRO, MICRO E MICRO/MICRO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+Segundo Kellog, Howell e Taylor(1981), após anos de pesquisa conseguiram com êxito demonstrar em forma de hierarquia fatores que influenciavam a construção civil, isto é seus insumos (material para utilizado para criar um produto). São eles os princípios:
+1_ Focando a efetividade e não a eficiência cria-se um ambiente considerando todos os elementos para efetivar todo o processo.
+2_ Maximizar todo o serviço é mais importante do que a produtividade por partes. Se apenas uma parte tem alto poder de produtividade atrapalha a empresa em seus outros setores.
+ 3_ Tendo um longo controle nas partes do processo produtivo a produtividade é incrementada, criando assim que os envolvidos tenham troca de experiências que é um fato mais importante do que o instrumental técnico.             
+4_ Criando meios de melhorar um setor não significa que estes possam se transferidos para outros, ou seja, o conhecimento da produtividade de um setor não pode ser transferido a outrem, pelo menos não em termos quantitativos.
+5_ O incremento de produtividade deve estar ligado inteiramente no sistema gerencial, onde posso alimentar realimentar e recuperar dados.
+ 6_ Usaremos métodos (níveis) para separar melhor os fatores que afetam a produtividade. Macro/Macro, Macro, Micro/Micro. 
+Existem cinco métodos, níveis de influencia são eles:
+MACRO/MACRO: Sistema econômico, nível de atividade do setor, utilização de capacidade instalada e diferenças regionais.
+Sistema econômico
+Nesse nível encontram-se todos os fatores que afetam o sistema econômico, e são divididos em três partes que juntos formam o sistema econômico com um todo. Já foram citados são eles:
+Nível de atividade do setor:                                                                     
+Produto ofertado pelos setores industriais tem demandas diferentes onde distorcem o equilíbrio econômico. Estes produtos criam oscilações na atividade do exercício executado pelas empresas no mercado, onde não se tem controle na demanda e na produção como mão de obra, materiais equipamentos e outros. Isto afeta o relacionamento dos setores que fornecem recursos.
+Deixando a assim empresa a criar estratégias, deixando parte da sua produtividade em terceiros, aumentando a produtividade, porém a demanda limita seus ganhos. Causando demora na continuidade do serviço. Alternativa e o uma tática de minimizar seus custos, 
+4
+desenvolvendo projetos com velocidade de trabalho menor, um risco considerando que existe uma demora e um possível ganho menor nos seus lucros.
+Outro problema é à mão de obra que é necessária qualificação em diversas áreas, as empresas criam recursos dentro de suas empresas para qualificar seus empregados. (cursos técnicos e profissionalizantes.). 
+
+Utilização de capacidade instalada:
+Segundo Hillebrandt (1979), capacidade existe três estágios:
+1_refere-se à tecnologia, que a capacidade na sua máxima produção por unidade de tempo que é possível com uma instalação industrial.
+2_econômica, ou seja, é a capacidade da produção máxima factível para a indústria como um todo dentro dos limites e condições aceitáveis para o momento. Estas medidas são a capacidade da indústria com sua mão de obra, equipamentos e capital.
+O modo de como a empresa utiliza sua capacidade utilizada faz com a mesma atue na manutenção de custos e pode ser a favor ou contra a produtividade. CONTRA: manter os níveis constantes é a mesma coisa que não inovar, FAVOR pode  inovar em relação a seus tipos de produtos, já que os componentes que ela produz são os mesmos.
+
+Diferenças regionais:
+Produtividade de salários na indústria está ligada composição da produção de cada região. Cidades de grande porte apresentam densidade populacional alta com grandes aglomerados de pessoas tendo uma melhor eficiência industrial. No entanto à mão de obra em lugares de grande porte industrial exerce uma função distinta, existe uma grande miscigenação de especializações e setores de trabalho. 
+
+MACRO
+Neste processo é avaliado determinado como os elementos  naturais ou socioeconômicos que restringem a produção dos projetistas. São eles ambiente físico, tecnologia, aspectos institucionais, organização da mão de obra, custos e praticas tecnológica.
+
+
+
+
+
+5
+Ambiente físico 
+
+Ambiente físico podem ser localização e condições climáticas, que atuam diretamente, alguns exemplos são proximidade de fabricas de centros de consumo ou climáticas(insolação, ventilação, umidade do ar, temperaturas e regimes de chuvas típicos) outro aspecto a ser analisado é a chegada da mão de obra ao local de trabalho.
+
+Tecnologia, normalização e custo. 
+
+
+Tecnologias diferentes atum de formas diferentes na produtividade, porem as características tecnológicas do processo produtivo não limitam a produtividade, isso porque entra outros fatores como a qualificação da mão de obra, matéria prima e equipamentos de diferentes manuseios.
+Com a normalização das dimensões, posicionamento e matéria-prima empregada devem levar em conta os fatores condicionantes da execução de cada elemento contido nela. As normas funcionais caracterizam-se por higiene, segurança e usabilidade.
+O custo na produtividade tem interferência tanto na tecnologia envolvida quanto na qualidade, fora que o custo é o fator primordial na decisão de como e qual produto será criado e executado. 
+
+MACRO/MICRO
+
+A influência deste nível esta nas decisões de estratégia da empresa, através do gerenciamento, ligadas aos projetistas e a individualidade de cada fabrica.
+
+
+Projeto do produto 
+
+
+Nesta etapa é proporcionado o inicio da cadeia que compõe o produto, tendo como objetivo básico as características e influencias do produto nos usuários, ambiente físico, tecnológico e custo.
+Criando assim o conceito, programação que é as atividades dos humanos no produto, analise onde verifica os requisitos do mesmo em relação às atividades humanas, como a seleção de técnicas e critérios de desempenho, estético e ambiental e a integração na configuração de todos os aspectos e requisitos de desempenho do produto.
+
+
+
+Repetição das operações 
+
+
+Um estudo teórico analisou e obteve dados que os ganhos de produtividade são obtidos a partir da repetição. Não significando a criação de produtos idênticos, mas sim que os componentes podem ser usados em outros produtos. Existindo uma fase que se familiariza 
+6
+Com as unidades que irão realizar as repetições, para que seja maximizada a efetividade e eficiência aumentando os lucros e diminuindo custos.
+
+
+Gerenciamento empresarial e especialização da empresa
+
+
+Aqui são definidas objetivas metas e estratégias de forma geral quanto à produção, aspectos financeiros e utilização de recursos assim têm decisões certas para o tamanho e especialização da empresa, motivação, incentivos financeiros, segurança no trabalho, rotatividade, formação profissional e treinamento, prática de horas extras, absenteísmo, relações contratuais, utilização de mão-de-obra subcontratada. Na especialização fatores favorecem grandes empresas como maiores fontes de recursos, ganhos a partir de especializações de mão de obra e outros.
+
+
+Motivação 
+
+Há duas teorias que tentam explicar a motivação uma identifica as necessidades humanas presentes no processo produtivo, outra define motivação como "um esforço organizado para agir no sentido de satisfazer necessidades ou desejos".
+Dois grupos de fatores de motivação foram idealizados através de uma pesquisa por Herzberg criador da primeira teoria, o primeiro grupo engloba os fatores que determinam o grau de satisfação com o trabalho e dizem respeito às características do próprio trabalho, a realização pessoal, ao reconhecimento, a chance de progresso e a responsabilidade. O segundo grupo abrange os fatores que caracterizam o contexto em que o trabalho se insere: condições de trabalho, relações interpessoais, supervisão, políticas da empresa, administração dessas políticas e estabilidade no trabalho. 
+Tanto a primeira teoria quanto a segunda partem do principio que a motivação para o trabalho vem do desejo de satisfazer essas necessidades. A partir desses elementos vem à ligação entre motivação e produtividade. 
+Maloney (1981), criador da segunda teoria coloca a produtividade do operário como o resultado da duração, intensidade, eficiência de seu esforço e da combinação entre este, a tecnologia e outros recursos. Há uma interação entre o esforço do operário e os recursos providos pela organização e se não há restrição pelo lado dos recursos, um incremento no esforço do operário, a partir da motivação, resulta em maior produtividade. 
+Alguns estudos observam a relação de produtividade e motivação. Elas são intrínsecas devido à interação entre o trabalho exercido com o desempenho, tanto nos aspectos do operário e do ambiente profissional. O aumento efetivo da produtividade ocorre ao existir maior motivação e satisfação no trabalho. No entanto, há possibilidade de ocorre a relação inversa entre a satisfação no trabalho e produtividade. Os trabalhos produtivos criaram uma maior satisfação e o contrario gera efeitos negativos em toda empresa. É necessário
+7
+ Vislumbrar a funcionalidade da motivação, o que implica no conteúdo do trabalho, a variedade de habilidades com a identidade e significado de tarefas, também no contexto em que se insere a origem a estados psicológicos que causam resultados significativos a empresa.
+O trabalho possui características que favorecem a produtividade. Ao exigir várias habilidades do operário, apresente um resultado claro, a autonomia no trabalho no qual a iniciativa é dele para o planejamento das atividades profissionais, quando a equipe é composta por indivíduos que trabalham juntos há certo tempo. Nesse sentido, é interessante manter as equipes inalteradas não só pelo aspecto da continuidade e repetição e isso traz como consequência o compromisso de buscar o melhor para empresa isso motiva ao crescimento pessoal e consequentemente de todos. Em contrapartida, é imprescindível a qualificação profissional, pois aqueles que obtêm conhecimento e habilidade necessários ao trabalho terão maio satisfação do que os operários não qualificados. Além do relacionamento ruim interpessoal, insatisfação na área de atuação, burocracia para exercer alguma operação; esses aspectos fazem parte do contexto de trabalho que condiciona a intensidade com menor potencial.
+Incentivos financeiros
+É realizada nas empresas como uma forma de aumentar a produtividade, uma espécie de “recompensa” por maior desempenho de cada operário. A buscar por maiores salários faz o trabalhador buscar exercer maior influência e mais resultado na empresa. Esse instrumento administrativo tem que ponderar a relação produtividade com a redução de custos, pois o pagamento de incentivos não pode trazer prejuízo no caixa da empresa. O gerenciamento deve manter um fluxo estável de trabalho e absorver o mínimo de efeitos das flutuações de curto prazo na demanda.  As tarefas devem manter-se constantes através do tempo, ou seja, não devem sofrer mudanças frequentes nos métodos, materiais e equipamentos. O equilíbrio entre esses sistemas operacionais é uma das principais metas, pois depende de diversos fatores como: tamanho da empresa, grau de centralização da estrutura organizacional, tipo de trabalho desenvolvido, organização da fábrica, grau de supervisão. 
+Segurança no trabalho
+Não consiste apenas na questão física, engloba a situação do individuo em sua atividade profissional e como se relaciona com o meio externo. Visa à proteção do operário para não prejudicar a produção, como a influência na produtividade da seguinte forma: pela interrupção no trabalho do acidentado e quebra da continuidade em sua equipe; pela interrupção no trabalho de equipes atingidas pelo acidente ou equipes que se deslocam para socorrer o acidentado; pela interrupção no trabalho de mestres e supervisores; pela redução na produtividade do acidentado quando volta ao trabalho, devido à interrupção; pela redução na produtividade de equipes que dependem de máquinas e equipamentos avariados; pela necessidade de substituir o acidentado deslocando um operário de outra equipe ou admitindo novo empregado. Tendo como parâmetro o cuidado com a saúde física, os acidentes no corpo do operário; e a saúde psicológica, transformar o ambiente hostil à favorável e a relação
+8 interpessoal a mais agradável  com os outros operários. Isso interfere tanto na área financeira da empresa de ressarcimento, como no andamento do processo. A preocupação com a segurança é mais vista em empresas de maior porte, pois investem e premiam o melhoramento das condições de trabalho.
+Rotatividade
+Relaciona-se de duas maneiras, por meio dos ciclos econômicos ou com as relações de trabalho, o que traz o ajuste da mão-de-obra frente às alterações do mercado de trabalho. Já as relações de trabalho, o empregado e empregador possui direta ligação e repercute de outra forma na produtividade da mão-de- obra. É fundamental para haver maior produtividade da empresa, pois quando o operário tem conhecimento e prática da maioria dos cargos da empresa, há menor degaste na substituição dos operários e a sistematização de maneira efetiva do trabalho.
+ Evitando o efeito de interrupção no processo de otimização das tarefas, pois o processo de aprendizagem já foi superado pelos demais. Nesse ponto, tanto o operário proveniente de outra equipe, quanto o proveniente de outra empresa, podem causar o mesmo efeito de interrupção. No entanto, se o novo operário necessita ainda de um processo de adaptação aos métodos e ao gerenciamento da empresa, o efeito de sua entrada na equipe pode ser maior, em relação ao operário que já se encontrava na empresa. O efeito que causa na operária afeta de maneira positiva na produtividade, pois  a instabilidade do cargo e a possibilidade de substituição faz com que se busque desempenhar da melhor maneira possível e por parte do gerenciamento, a insatisfação cresce com o aumento de rotatividade dos operários pelas dificuldades em manter o andamento normal do trabalho, mediante o desequilíbrio de produtividade das equipes. Agem também como fonte de insatisfação para o gerenciamento, as alterações no desempenho em termos de segurança no trabalho.
+Formação profissional e treinamento
+ Uma das formas de impulsionar os índices de produtividade é no investimento na formação profissional e treinamento. O alinhamento dos conhecimentos e habilidades desenvolvidos em seu sistema educacional ao que as empresas precisam para produzir mais e melhor. Em um cenário de taxas de desemprego historicamente baixas, há certo consenso entre economistas de que para acelerar o crescimento será preciso aumentar a produtividade dos trabalhadores no país. É por isso que a "produtividade" tornou-se um dos temas centrais do atual debate econômico. Qualificar melhor os trabalhadores é  um dos grandes desafios - e é sempre importante conhecer a experiência dos outros países nessa área. É necessário promover visitas e parcerias com outros países buscando se informar sobre seus sistemas públicos de emprego, qualificação profissional e estratégias de treinamento dentro da empresa. Uma das respostas ao problema do ajuste das habilidades dos trabalhadores às necessidades das empresas: ,  . Pois a falta de trabalhadores de formação técnica é hoje um dos fatores que afeta a produtividade nas empresas.
+9
+Prática de horas extras
+Ao analisar a produtividade, o excesso de jornada de trabalho é tanto oneroso para as empresas quanto cansativo para os trabalhadores. Para o trabalhador, a hora extra infere no aumento de renda, complementando salário e refletindo em verbas, no entanto, também reflete negativamente em seu período de descanso, onde este poderia estar se dedicando aos momentos familiares, aos estudos, enfim, a seus afazeres longe do ambiente de trabalho. Para a empresa a situação é ainda mais desvantajosa, embora isso não seja comumente analisado com o devido cuidado. Primeiramente podemos concluir que um trabalhador que pratica horas extraordinárias não mantém durante este período o mesmo nível de produtividade de sua jornada de trabalho normal, visto que já a ultrapassa, e, portanto suas condições físicas e mentais estão prejudicadas pela fadiga.
+Em contrapartida, a empresa estará pagando um acréscimo por essa mesma hora extraordinária, que é a exigência na lei. Este acréscimo também incide sobre os encargos trabalhistas, aumentando o custo por trabalhador, que já não é baixo. Portanto, é cabível dizer que a melhor maneira de administrar o excesso de trabalho é oferecendo oportunidades produtivas para a massa ociosa, aumentando os postos de trabalho e paralelamente diminuindo as possibilidades de infortúnios e gastos desnecessários. 
+Absenteísmo
+ É o termo usado para designar as ausências dos colaboradores no processo de trabalho ou estudantes na escola, seja por falta ou atraso. Constitui- se na somatória dos períodos em que os funcionários se encontram ausentes, ou seja, é a duração de tempo de trabalho perdido quando os empregados não vão ao trabalho. Ter funcionários nem sempre significa tê-los trabalhando durante todos os momentos do horário de trabalho. As ausências dos empregados ao trabalho provocam distorções quando se refere ao volume e disponibilidade ou atraso de trabalho. O oposto do absenteísmo é a presença. Consequência como o absenteísmo representa custos para qualquer organização. Ou seja, quanto mais absenteísmo mais custos, seu efeito é negativo, onde a ausência dos trabalhadores diminui a produção, reflete nos indicadores de qualidade de forma negativa e como consequência repercute diretamente na economia.
+Relações contratuais
+Dentre os princípios que norteiam as relações contratuais, encontra-se o equilíbrio contratual, ou seja, um equilíbrio entre as prestações contratuais, de modo que um dos contratantes não possua, em face do outro, vantagem manifestamente excessiva. Haveria um acréscimo exorbitante no trabalho realizado sem que houvesse a devida contraprestação, violando, portanto, o equilíbrio contratual, além de acarretar a hipótese de enriquecimento sem causa em face de um dos contratantes.  Resta evidente que, quando da rescisão do contrato, a apelante não quitou integralmente as prestações pactuadas no momento da
+
+10 celebração do instrumento contratual. Apelação improvida a remessa oficial, tida como ocorrida, parcialmente provida para reduzir os honorários.
+Utilização de mão de obra subcontrada
+A terceirização é identificada como o processo através do qual as empresas transferem para terceiros suas atividades meio, isto é, atividades de apoio, enquanto a subcontratação refere-se à transferência de atividades fins, caracterizadas pelas etapas do processo produtivo. Os subcontratados tem um grande poder sobre o processo produtivo que faz com que as empresas se obriguem a ir além das relações unívocas de subempregados, limitadas às transferências econômicas e comerciais. De nada adianta gerir e controlar uma parte limitada da produtividade, se o conjunto dos intervenientes da cadeia escapa ao sistema.
+
+Fatores atuantes no nível micro
+Visualiza-se em três dimensões: ativos, processos e desempenho. Nesse modelo a competitividade é a combinação de ativos e processos, no qual os ativos podem ser herdados (recursos naturais) ou criados (infraestrutura) e os processos transformam esses ativos em ganhos econômicos através de vendas, enquanto o desempenho mensura e potencializa os resultados dessa combinação. Na dimensão processos gerenciais envolvendo manufatura, desenhos e qualidade; os processos de marketing no qual são considerados: composto de marketing, os relacionamentos entre os agentes da rede de valor e as questões do poder de mercado. Na dimensão de desempenho são considerados: market share, indicadores financeiros, produtividade, diferenciação, lucratividade, preço, custo, variedade, criação de valor, satisfação do consumidor e desenvolvimento de novos produtos. Neste modelo de análise micro a competitividade é entendida a partir de processos gerenciais, os quais conduzem à melhoria do desempenho da firma. Essa melhoria de desempenho por sua vez propicia ampliar e qualificar o conjunto de ativos e a inovação dos processos internos, produzindo um círculo virtuoso de competitividade da firma. Assim a habilidade da firma para gerar ou adquirir ativos e desenvolver capacidades para gerenciar processos de gestão de pessoas, operacionais, tecnológicos, marketing e finanças permite a melhoria do desempenho organizacional, o que conduz à competitividade de classe mundial.
+Fatores atuantes no nível micro/micro
+A relação é estabelecida entre o operário e sua equipe de trabalho, tendo em vista o resultado o desempenho individual ou da equipe. O conhecimento gerado é provido da experiência obtida no cargo que exerce há bom tempo. Isso engloba as tecnologias, as decisões a ser tomadas e o efeito que resulta na efetividade da produção.
+Métodos de trabalho
+
+11
+Há diversos métodos, mais o que se abstrai do geral é a procura por aquelas operações, atividades, ou processos que  acrescentam valor ao produto ou serviço. A combinação de dois ou mais processos num simples. Reordenar, rever a sequência de realização das operações, procurar simplificar; tomar a realização das operações mais diretas e menos confusas e sujeita a erros, aperfeiçoar.
+
+Referencial Teórico
+FATORES QUE AFETAM A PRODUTIVIDADE SOB A ÓTICA DOS CUSTOS DE PRODUÇÃO: Texto adaptado para estudo na disciplina de Gestão da Produção e Qualidade dos fatores que afetam a produtividade em função do aspecto sistêmico da metodologia e da abrangência dos aspectos envolvidos no processo de produção como um todo. Prof. Maria de Fátima Souza e Silva
